@@ -1,6 +1,0 @@
-{
-  "type": "kpkh_buyer:rune_smithing",
-  "base": "#minecraft:enchantable/mining",
-  "addition": "kpkh_buyer:rune_of_efficiency",
-  "enchantment": "minecraft:efficiency"
-}
